@@ -42,6 +42,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-edufernandes.1895@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edufernandes.1895@gmail.com)](mailto:edufernandes.1895@gmail.com)
 
-[![GitHub DEVil-Dudu](https://img.shields.io/github/followers/DEVil-Dudu?label=follow&style=social)](https://github.com/DEVil-Dudu/)
+[![GitHub DuduDevCode](https://img.shields.io/github/followers/DuduDevCode?label=follow&style=social)](https://github.com/DuduDevCode/)
 
-![](https://komarev.com/ghpvc/?username=DEVil-Dudu&color=006bed)
+![](https://komarev.com/ghpvc/?username=DuduDevCode&color=006bed)
