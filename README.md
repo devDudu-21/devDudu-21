@@ -29,11 +29,11 @@
 
 **GitHub Stats**
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=DuduDevCode&theme=dracula&show_icons=true)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=devDudu-21&theme=dracula&show_icons=true)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduDevCode&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDudu-21&layout=compact)
 
 <br/>
 
