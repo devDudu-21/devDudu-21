@@ -43,4 +43,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-edufernandes.1895@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edufernandes.1895@gmail.com)](mailto:edufernandes.1895@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=DuduDevCode&color=006bed)
+![](https://komarev.com/ghpvc/?username=devDudu-21&color=006bed)
