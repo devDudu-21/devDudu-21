@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 -   🤔 &nbsp; Explorando novas tecnologias.
--   🎓 &nbsp; Estudando **Desenvolvimento Full Stack** na <a href="https://onebitcode.com/lp/">One Bit Code</a>.
+-   🎓 &nbsp; Estudando **Desenvolvimento Full Stack**.
 -   🌱 &nbsp; Aprendendo mais sobre **JavaScript, HTML, CSS, React e NodeJs**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
