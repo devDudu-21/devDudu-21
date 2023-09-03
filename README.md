@@ -2,7 +2,7 @@
 
 -   🤔 &nbsp; Explorando novas tecnologias.
 -   🎓 &nbsp; Estudando **Desenvolvimento Full Stack**.
--   🌱 &nbsp; Aprendendo mais sobre **JavaScript, HTML, CSS, React e NodeJs**.
+-   🌱 &nbsp; Aprendendo mais a cada dia.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
