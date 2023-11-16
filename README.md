@@ -1,8 +1,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
--   🤔 &nbsp; Explorando novas tecnologias.
+-   🤔 &nbsp; Explorando novas tecnologias, Go e me aprimorando em desenvolvimento Full Stack.
 -   🎓 &nbsp; Estudando **Desenvolvimento Full Stack**.
--   🌱 &nbsp; Aprendendo mais a cada dia.
+-   🌱 &nbsp; Desenvolvedor Junior Javascript, usando techs como NodeJS e React.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodedotjs)
+![NodeJS](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodedotjs)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 
 **DevOps**
