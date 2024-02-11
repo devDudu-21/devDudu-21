@@ -1,8 +1,10 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
--   🤔 &nbsp; Explorando novas tecnologias, Go, Typescript e me aprimorando em desenvolvimento Full Stack.
+-   💻 &nbsp; Explorando novas tecnologias, Typescript, me aprimorando em desenvolvimento Full Stack e em breve darei início à minha jornada no Golang
 -   🎓 &nbsp; Estudando **Desenvolvimento Full Stack**.
 -   🌱 &nbsp; Desenvolvedor Junior Javascript, usando techs como NodeJS e React.
+
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
