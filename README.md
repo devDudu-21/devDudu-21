@@ -1,49 +1,39 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=67e8f9&fontColor=ef95ae&height=70&section=header"/>
+<h1 align=left">  Hello, there! I'm Eduardo!</h1>
+<p align="left">
 
--   💻 &nbsp; Explorando novas tecnologias, Typescript, me aprimorando em desenvolvimento Full Stack e em breve darei início à minha jornada no Golang
--   🎓 &nbsp; Estudando **Desenvolvimento Full Stack**.
--   🌱 &nbsp; Desenvolvedor Junior Javascript, usando techs como NodeJS e React.
+I'm a Full Stack software development student majoring in Computer Science at Universidade Veiga de Almeida.
 
+## Languages:
 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=js,typescript,php,html,css" />
+</div>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## Tools:
 
-**Aplicações e Dados**
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=figma,react,tailwind,bootstrap,nodejs,express,postgres,mysql,mongodb" />
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodedotjs)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+## DevOps:
 
-**DevOps**
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</div>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de Desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+<hr/>
 <br/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devdudu-21&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&locale=en&hide_border=false&show_owner=true&card_width=500" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devdudu-21&locale=en&hide_title=false&layout=compact&card_width=423&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-**GitHub Stats**
+## Connect with me:
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=devDudu-21&theme=dracula&show_icons=true)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduffernandes_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devdudu)
+[![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:edufernandes.1895@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=67e8f9&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDudu-21&layout=compact)
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
-
-[![Proton Badge](https://img.shields.io/badge/ProtonMail-DEVilDudu@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:DEVilDudu@proton.me)](mailto:DEVilDudu@proton.me)
-
-[![Gmail Badge](https://img.shields.io/badge/-edufernandes.1895@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edufernandes.1895@gmail.com)](mailto:edufernandes.1895@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=devDudu-21&color=006bed)
+</div>
