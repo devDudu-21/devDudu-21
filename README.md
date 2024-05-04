@@ -2,7 +2,7 @@
 <h1 align=left">  Hello, there! I'm Eduardo!</h1>
 <p align="left">
 
-I'm a Full Stack software development student majoring in Computer Science at Universidade Veiga de Almeida.
+I'm a Full Stack software development student majoring in Computer Science.
 
 ## Languages:
 
