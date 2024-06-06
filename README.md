@@ -7,7 +7,7 @@ I'm a Full Stack software development student majoring in Computer Science.
 ## Languages:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css" />
 </div>
 
 ## Tools:
