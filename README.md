@@ -1,39 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=67e8f9&fontColor=ef95ae&height=70&section=header"/>
-<h1 align=left">  Hello, there! I'm Eduardo!</h1>
-<p align="left">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
-I'm a Full Stack software development student majoring in Computer Science.
+<!-- Header typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Eduardo+Fernandes,+19+yo...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
-## Languages:
+<!-- Introdução -->
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css" />
-</div>
+## 💻 Brief introduction
 
-## Tools:
+Hi! My name is [Eduardo Fernandes](www.linkedin.com/in/devdudu). I am a fullstack software development student and currently pursuing a degree in Computer Science.
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=figma,react,tailwind,bootstrap,nodejs,express,postgres,mysql,mongodb" />
-</div>
+<!-- Status -->
 
-## DevOps:
+## ⚡ GitHub statistics
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</div>
+<p align="center">
 
-<hr/>
-<br/>
+<a href="https://github.com/devDudu-21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devDudu-21&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@devDudu's github-readme-stats"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devDudu-21&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
+
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@devDudu21">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devDudu-21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+<p align="center">
+<a href="https://wakatime.com/@devDudu21"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=devDudu21&theme=github_dark&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@devDudu-21's wakatime stats"/></a>
+<a href="https://github.com/devDudu-21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devDudu-21&theme=discord&no-frame=true&column=3&row=2"  width="38%" alt="@devDudu-21's trophy stats"/></a>
+</p>
+
+<p align="center">
+<a href="https://gist.github.com/devDudu-21"><img src="https://profile-counter.glitch.me/{devDudu-21}/count.svg" alt="devDudu-21 :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+<!-- Tecnologias -->
+
+## ⚡ Front-End
+
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js" />
+  </a>
+</p>
+
+## ⚡ Back-End
+
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  </a>
+</p>
+
+## ⚡ Softwares and Tools
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,nginx,npm,linux" />
+  </a>
+</p>
+
+## ⚡ Database
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sequelize,firebase,mysql,mongo,postgresql " />
+  </a>
+</p>
+
+## 🌐 Redes Sociais
+
+<!-- Redes sociais de contato -->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devdudu-21&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&locale=en&hide_border=false&show_owner=true&card_width=500" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devdudu-21&locale=en&hide_title=false&layout=compact&card_width=423&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+<a href = "mailto:edufernandes.1895@@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/devdudu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Connect with me:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duduffernandes_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devdudu)
-[![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:edufernandes.1895@gmail.com)
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=67e8f9&fontColor=ef95ae&height=70&section=footer&animation=fadeIn" />
-
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
