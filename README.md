@@ -20,7 +20,7 @@ Hi! My name is [Eduardo Fernandes](www.linkedin.com/in/devdudu). I am a fullstac
 <p align="center">
 
 <a href="https://github.com/devDudu-21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devDudu-21&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@devDudu's github-readme-stats"/></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devDudu-21&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devDudu-21&theme=github-dark-blue&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
 
 </p>
 
