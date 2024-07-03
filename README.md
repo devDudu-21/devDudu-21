@@ -41,8 +41,6 @@ Hi! My name is [Eduardo Fernandes](www.linkedin.com/in/devdudu). I am a fullstac
 <a href="https://gist.github.com/devDudu-21"><img src="https://profile-counter.glitch.me/{devDudu-21}/count.svg" alt="devDudu-21 :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
 <!-- Tecnologias -->
 
 ## ⚡ Front-End
