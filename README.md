@@ -11,7 +11,7 @@
 
 ## 💻 Brief introduction
 
-Hi! My name is [Eduardo Fernandes](www.linkedin.com/in/devdudu). I am a fullstack software development student and currently pursuing a degree in Computer Science.
+Hello, my name is [Eduardo Fernandes](www.linkedin.com/in/devdudu). I am a Computer Science student and I study Full Stack Development. To all visitors of my profile, whether you are recruiters, IT professionals, or fellow students, welcome! Suggestions, feedback, and collaborations are greatly appreciated. Feel free to browse through my [repositories](https://github.com/devDudu-21?tab=repositories) and check out my projects. I'm glad to have you here!
 
 <!-- Status -->
 
