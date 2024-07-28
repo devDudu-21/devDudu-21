@@ -43,12 +43,21 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 
 <!-- Tecnologias -->
 
+## 🏷️ Languages
+
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js" />
+  </a>
+</p>
+
+
 ## ⚡ Front-End
 
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs" />
   </a>
 </p>
 
