@@ -82,7 +82,7 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sequelize,firebase,mysql,mongo,postgresql " />
+    <img src="https://skillicons.dev/icons?i=sequelize,prisma,firebase,mysql,mongo,postgresql " />
   </a>
 </p>
 
