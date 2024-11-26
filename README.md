@@ -74,7 +74,7 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,nginx,npm,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,nginx,npm,linux,azure" />
   </a>
 </p>
 
