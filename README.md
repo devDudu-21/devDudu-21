@@ -47,7 +47,7 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,go" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sequelize,prisma,firebase,mysql,mongo,postgresql " />
+    <img src="https://skillicons.dev/icons?i=sequelize,prisma,firebase,mysql,mongo,postgresql,mssql" />
   </a>
 </p>
 
